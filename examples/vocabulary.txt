@@ -1,0 +1,36 @@
+# Sample vocabulary file for CYK Parser
+# Format: word TAG probability
+# You can add thousands of words here
+
+# More verbs
+jumped V 1.0
+running V 1.0
+flying V 1.0
+swimming V 1.0
+eating V 1.0
+drinking V 1.0
+
+# More nouns
+fox N 1.0
+rabbit N 1.0
+elephant N 1.0
+river N 1.0
+mountain N 1.0
+sky N 1.0
+
+# More adjectives
+beautiful Adj 1.0
+ugly Adj 1.0
+tall Adj 1.0
+short Adj 1.0
+wide Adj 1.0
+narrow Adj 1.0
+bright Adj 1.0
+dark Adj 1.0
+
+# More prepositions
+beside P 1.0
+behind P 1.0
+across P 1.0
+along P 1.0
+around P 1.0

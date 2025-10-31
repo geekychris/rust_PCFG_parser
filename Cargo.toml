@@ -1,0 +1,11 @@
+[package]
+name = "cyk_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A probabilistic CYK parser implementation for Probabilistic Context-Free Grammars"
+readme = "README.md"
+keywords = ["parser", "cyk", "pcfg", "nlp", "parsing"]
+categories = ["parsing", "algorithms"]
+
+[dependencies]
