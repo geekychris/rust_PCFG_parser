@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Rust PCFG Parser logo" width="180">
+</p>
+
 # Probabilistic CYK Parser
 
 A Rust implementation of the probabilistic CYK (Cocke-Younger-Kasami) parsing algorithm for Probabilistic Context-Free Grammars (PCFGs).
